@@ -1,0 +1,50 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  background-color: white;
+  color: white;
+  font-size: 0.9rem;
+}
+
+.editBtn {
+  margin: 3px;
+}
+
+.parentHeader {
+  background-color: black;
+  color: white;
+}
+
+.controls {
+  display: flex;
+  border: 1px solid #ccc;
+  border-top: 0;
+  padding: 10px;
+}
+
+.controls-right {
+  margin-left: auto;
+}
+
+.state {
+  margin: 10px 0;
+  font-family: monospace;
+}
+
+.state-title {
+  color: #999;
+  text-transform: uppercase;
+}
+
+.previewBtn {
+  margin-left: auto;
+  margin-right: 8%;
+  margin-bottom: 1%;
+  background-color: darkgrey;
+}
+
+.lightBlue {
+  background-color: lightBlue
+}
