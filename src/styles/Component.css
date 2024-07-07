@@ -101,7 +101,7 @@
     justify-content: space-between;
     align-items: center;
     font-size: medium;
-    width: 141vh;
+    max-width: 141vh;
     color: black;
 }
 

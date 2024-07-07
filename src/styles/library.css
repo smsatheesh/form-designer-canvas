@@ -10,10 +10,10 @@
 
 .dropZoneScenario {
     padding: 10px;
-    width: 141vh;
     display: flex;
     font-weight: bold;
     justify-content: center;
     color: black;
     background-color: #a5ddf0;
+    max-width: 140vh;
 }
